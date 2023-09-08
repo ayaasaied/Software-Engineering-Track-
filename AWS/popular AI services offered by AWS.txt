@@ -1,0 +1,19 @@
+1-Amazon Rekognition: A deep learning-based image and video analysis service that can analyze and recognize objects, scenes, and faces, as well as detect inappropriate content.
+
+2-Amazon Polly: A text-to-speech service that uses advanced deep learning technologies to convert written text into lifelike speech.
+
+3-Amazon Transcribe: An automatic speech recognition (ASR) service that converts speech into written text, enabling applications such as transcription services, voice assistants, and more.
+
+4-Amazon Translate: A neural machine translation service that provides fast and high-quality translation between different languages.
+
+5-Amazon Lex: A service for building conversational interfaces using voice and text. It powers Amazon Alexa and allows you to create chatbots and virtual assistants.
+
+6-Amazon Comprehend: A natural language processing (NLP) service that can extract key insights and relationships from text, including sentiment analysis, entity recognition, and topic modeling.
+
+7-Amazon SageMaker: A fully managed service that enables developers and data scientists to build, train, and deploy machine learning models at scale.
+
+8-Amazon Forecast: A fully managed service for time series forecasting that uses machine learning to generate accurate predictions based on historical data.
+
+9-Amazon Personalize: A service that makes it easy to create personalized recommendations for your applications by leveraging machine learning algorithms.
+
+10-Amazon Textract: A service that automatically extracts text and data from scanned documents, PDFs, and images using machine learning algorithms.
